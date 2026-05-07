@@ -1,20 +1,9 @@
 {
   "name": "docker-build-demo",
   "version": "1.0.0",
-  "description": "A simple Node.js application for Docker image build validation using GitHub Actions CI.",
+  "description": "Simple Node.js Docker Build Demo",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "keywords": [
-    "docker",
-    "github-actions",
-    "ci",
-    "nodejs"
-  ],
-  "author": "alokmisra",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.18.3"
   }
 }
